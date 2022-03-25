@@ -17,7 +17,7 @@ int main () {
 		
 		else {
 			printf("congratulations! your guess is right\n\n");
-			
+			printf("You did it");
 			return ;
 		}	
 	}
